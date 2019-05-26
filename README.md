@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The welcome bot will welcome invaders on earth, to do your bidding
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Provide you with the means for WORLD DOMINATION
 
 ## Getting started
 
